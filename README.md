@@ -1,6 +1,6 @@
 ### Hi, I'm Júnior Carvalho 👨‍💻
 
-I am a passionate Full Stack Web Developer who loves creating simple solutions for complex problems. I have successfully made projects in both front-end and back-end development, and enjoy working with modern technologies to bring digital ideas to life. I am constantly learning and keeping up-to-date with the latest trends and techniques in the web development world. I am always open to new opportunities in the tech industry, and I am excited to collaborate on projects that make a positive impact on the world.
+I am a Full Stack Web Developer who loves creating simple solutions for complex problems. I have successfully made projects in both front-end and back-end development, and enjoy working with modern technologies to bring digital ideas to life. I am constantly learning and keeping up-to-date with the latest trends and techniques in the web development world. I am always open to new opportunities in the tech industry, and I am excited to collaborate on projects that make a positive impact on the world.
 
 <img align="center" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
