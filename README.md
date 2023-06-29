@@ -8,17 +8,18 @@ I am a Full Stack Web Developer who loves creating simple solutions for complex 
 ## **Languages and tools:**  
 
 ![JavaScript](https://badges.aleen42.com/src/javascript.svg)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![Python](https://badges.aleen42.com/src/python.svg)
+![TypeScript](https://badges.aleen42.com/src/typescript.svg)
+![HTML5](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5&logoColor=1572B6)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![React](https://badges.aleen42.com/src/react.svg)
 ![Node](https://badges.aleen42.com/src/node.svg)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![Docker](https://badges.aleen42.com/src/docker.svg)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![Redux](https://badges.aleen42.com/src/redux.svg)
 ![EsLint](https://badges.aleen42.com/src/eslint.svg)
 ![GitHub](https://badges.aleen42.com/src/github.svg)
-![Docker](https://badges.aleen42.com/src/docker.svg)
-![TypeScript](https://badges.aleen42.com/src/typescript.svg)
+![GitLab](https://badges.aleen42.com/src/gitlab.svg)
 
 
 
