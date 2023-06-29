@@ -18,12 +18,12 @@ I am a Full Stack Web Developer who loves creating simple solutions for complex 
 ![EsLint](https://badges.aleen42.com/src/eslint.svg)
 ![GitHub](https://badges.aleen42.com/src/github.svg)
 ![Docker](https://badges.aleen42.com/src/docker.svg)
+![TypeScript](https://badges.aleen42.com/src/typescript.svg)
 
 
 
 ## **Learning**
-
-![TypeScript](https://badges.aleen42.com/src/typescript.svg)
+![Java](https://badges.aleen42.com/src/java.svg)
   
 ## Contact
 
